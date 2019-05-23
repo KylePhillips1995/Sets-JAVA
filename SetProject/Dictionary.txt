@@ -1,0 +1,10 @@
+Apple : A spherical sweet fruit cultivated worldwide and grown on a deciduous tree .
+Avocado : A spherical green skinned fruit cultivated in tropical and Mediterranean climates with a single large seed .
+Banana: An elongated and curved fruit with soft flesh rich in starch, covered with a rind. Color varies and grow in clusters hanging from the top of a plant .
+Grape: A small spherical fruit of the deciduous woody vines of the flowering plant genus Vitis. Generally occure in clusters and are typically used in wine making .
+Mango : A spherical stone fruit cultivated in the tropics belonging to the flowering plant genus Mangifera  .
+Orange: A spherical sweet orange fruit of the citrus species, cultivated mainly in tropical and subtropical climates but are grown worldwide  .
+Passionfruit: A spherical fruit yellow or dark purple at maturity, cultivated commercially in tropical and subtropical areas.
+Peach: A spherical stone fruit with juicy yellow flesh and downy pinkish-yellow skin.
+Pineapple: A large juicy tropical fruit with yellow flesh surrounded by a tough outer skin.
+Plum: A spherical/oval fruit that is purple, reddish, or yellow. Flattish pointed pit.
